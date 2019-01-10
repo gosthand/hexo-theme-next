@@ -89,6 +89,5 @@
   {% include '_third-party/scroll-cookie.swig' %}
   {% include '_third-party/exturl.swig' %}
   <script type="text/javascript" src="https://gosthand.github.io/changetitle.js"></script>
-  <script type="text/javascript" src="https://gosthand.github.io/particle.js" color="255,0,0" opacity="0.3" count="99"></script>
 </body>
 </html>
