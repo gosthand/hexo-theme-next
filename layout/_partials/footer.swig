@@ -40,6 +40,7 @@ var bszCaller,bszTag;!function(){var c,d,e,a=!1,b=[];ready=function(c){return a|
   本站访客数:<span id="busuanzi_value_site_uv"></span>
 </span>
 </div>
+<span class="post-meta-divider">|</span>
   <div class="theme-info">{#
   #}{{ __('footer.theme') }} &mdash; {#
   #}<a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">{#
